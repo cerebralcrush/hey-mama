@@ -16,7 +16,7 @@ companions = 0
 # Add your input code here
 
 print("Where do you want to go?")
-planet = ""
+planet = "hey mama"
 
 # Add your code here
 
